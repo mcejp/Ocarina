@@ -2,8 +2,10 @@
 
 ## Ocarina IIIsolated
 
-![PCB model](https://imgur.com/J30HP0B.png)
+![PCB model](docs/ocarina-iii-render.png)
+
+![PCB with blinkenlights](docs/ocarina-iii-lights.jpg)
 
 ## Ocarina II
 
-![Photo](https://i.imgur.com/tvUcDcq.jpg)
+![Photo](docs/ocarina-ii.jpg)
